@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ##### BIO
 
-- 💻 Atualmente trabalho como desenvolvedora mobile Delphi
+- 💻 Atualmente trabalho como desenvolvedora IA Java JR
 - 💡 Sou fundadora do Ideiando - Papelaria Personalizada
 - 📲 Conhecimento e experiência: `delphi`, `app store`,  `play store`,  `sqlite`,  `firebird`
-- 📚 Aprendendo e querendo aprender: `java`, `python`,  `data science`,  `front-end`
+- 📚 Aprendendo e querendo aprender: `java`, `front-end`, `UI`
 - 🕹️ Gamer nas horas vagas
 - 🍃 Good Vibes
 - 🌱 Tentando ser mais saudável e sustentável
