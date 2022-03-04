@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 - 💻 Atualmente trabalho como desenvolvedora Java JR
 - 💡 Sou fundadora do Ideiando - Papelaria Personalizada
-- 📲 Conhecimento e experiência: `delphi`, `app store`,  `play store`,  `sqlite`,  `firebird`
-- 📚 Aprendendo e querendo aprender: `java`, `front-end`, `UI`
+- 📲 Conhecimento e experiência:`java`, `html`, `css`
+- 📚 Aprendendo e querendo aprender: `AWS`, `front-end`, `UI`, 
 - 🕹️ Gamer nas horas vagas
 - 🍃 Good Vibes
 - 🌱 Tentando ser mais saudável e sustentável
