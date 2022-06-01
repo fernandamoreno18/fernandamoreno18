@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ##### BIO
 
-- 💻 Atualmente trabalho como desenvolvedora Java JR
+- 💻 Atualmente trabalho como desenvolvedora Java
 - 💡 Sou fundadora do Ideiando - Papelaria Personalizada
 - 📲 Conhecimento e experiência:`java`, `html`, `css`
 - 📚 Aprendendo e querendo aprender: `AWS`, `front-end`, `UI`, 
