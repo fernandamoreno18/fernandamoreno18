@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💻 Atualmente trabalho como desenvolvedora Java
 - 💡 Sou fundadora do Ideiando - Papelaria Personalizada
 - 📲 Conhecimento e experiência:`java`, `html`, `css`
-- 📚 Aprendendo e querendo aprender: `AWS`, `front-end`, `UI`, 
+- 📚 Aprendendo e querendo aprender: `front-end`, `UI`, `UX`,
 - 🕹️ Gamer nas horas vagas
 - 🍃 Good Vibes
 - 🌱 Tentando ser mais saudável e sustentável
