@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 
 ##### BIO
 
-- 💻 Atualmente trabalho como desenvolvedora Java
+- 💻 Atualmente trabalho como desenvolvedora Júnior Java
 - 💡 Sou fundadora do Ideiando - Papelaria Criativa
-- 📲 Conhecimento e experiência:`java`, `html`, `css`
-- 📚 Aprendendo e querendo aprender: `Spring Boot`, `React`, `Flutter`
+- 📲 Experiência:`Spring Boot`, `AWS`, `SQL`, `React`
 - 🕹️ Gamer nas horas vagas
 - 🍃 Good Vibes
 - 🌱 Tentando ser mais saudável e sustentável
