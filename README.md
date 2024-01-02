@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ##### BIO
 
-- 💻 Atualmente trabalho como desenvolvedora Júnior Java
+- 💻 Atualmente trabalho como desenvolvedora Pleno Java
 - 💡 Sou fundadora do Ideiando - Papelaria Criativa
 - 📲 Experiência:`Spring Boot`, `AWS`, `SQL`, `React`
 - 🕹️ Gamer nas horas vagas
