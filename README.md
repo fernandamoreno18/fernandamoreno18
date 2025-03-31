@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ### Oieee! 👋
-#### Aqui é a Fernanda Moreno.
+#### Aqui é a Fernanda Bianchini.
 
 ##### BIO
 
-- 💻 Atualmente trabalho como desenvolvedora Pleno Java
-- 💡 Sou fundadora do Ideiando - Papelaria Criativa
-- 📲 Experiência:`Spring Boot`, `AWS`, `SQL`, `React`
+- 💻 Desenvolvedora Back End Java
+- 📲 Experiência:`Java`, `Spring Boot`, `AWS`, `SQL`, `MongoDB`, `MongoDB`
 - 🕹️ Gamer nas horas vagas
 - 🍃 Good Vibes
 - 🌱 Tentando ser mais saudável e sustentável
