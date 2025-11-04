@@ -1,35 +1,44 @@
-<!--
-**fernandamoreno18/fernandamoreno18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Fernanda Bianchini</h1>
 
-Here are some ideas to get you started:
+<p align="left">
+  Back-end Developer • Java & Spring Boot  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  MBA em Engenharia de Software (em andamento)  
+</p>
 
-### Oieee! 👋
-#### Aqui é a Fernanda Bianchini.
 
-##### BIO
+<br/>
 
-- 💻 Desenvolvedora Back End Java
-- 📲 Experiência:`Java`, `Spring Boot`, `AWS`, `SQL`, `MongoDB`, `MongoDB`
-- 🕹️ Gamer nas horas vagas
-- 🍃 Good Vibes
-- 🌱 Tentando ser mais saudável e sustentável
+### Sobre
 
-<div> 
-  <a href="https://instagram.com/fer__moreno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fernanda.bianchini18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernanda-moreno-bianchini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</a>  
-</div>  
-</br>  
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/fernandamoreno18/count.svg" /></p>
+Construo soluções orientada, com foco em escalabilidade, qualidade de software e boas práticas de engenharia.  
+Atualmente pesquisando aplicações de IA em análise de movimento humano para prevenção de lesões em treino (EvoluFit).
 
+> Tech + Health + Human Motion
+
+<br/>
+
+### Stack
+
+| Core | Cloud | DB | Front |
+|---|---|---|---|
+| Java • Spring Boot | AWS | MongoDB • SQL | React Native (hybrid) |
+
+<br/>
+
+### Em andamento: EvoluFit 🧠📈
+
+Aplicativo para análise de postura durante exercícios com captura de pose + IA.  
+Foco: MVP funcional → squat (agachamento) como primeiro exercício.
+
+<br/>
+
+### Conexões
+
+<div align="left">
+  <a href="https://instagram.com/fer__moreno" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
+  <a href="mailto:fernanda.bianchini18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+  <a href="https://www.linkedin.com/in/fernanda-moreno-bianchini/" target="_blank"><img src="https://img.shields.io/badge/🔗 LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+</div>
