@@ -16,7 +16,6 @@
 Construo soluções orientada, com foco em escalabilidade, qualidade de software e boas práticas de engenharia.  
 Atualmente pesquisando aplicações de IA em análise de movimento humano para prevenção de lesões em treino (EvoluFit).
 
-> Tech + Health + Human Motion
 
 <br/>
 
